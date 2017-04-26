@@ -1,0 +1,5 @@
+C:\Users\Timo\Desktop\AlgorithmsAssignments\Dictionaries\bin\Debug\Dictionaries.dll
+C:\Users\Timo\Desktop\AlgorithmsAssignments\Dictionaries\bin\Debug\Dictionaries.pdb
+C:\Users\Timo\Desktop\AlgorithmsAssignments\Dictionaries\obj\Debug\Dictionaries.csprojResolveAssemblyReference.cache
+C:\Users\Timo\Desktop\AlgorithmsAssignments\Dictionaries\obj\Debug\Dictionaries.dll
+C:\Users\Timo\Desktop\AlgorithmsAssignments\Dictionaries\obj\Debug\Dictionaries.pdb

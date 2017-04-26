@@ -1,0 +1,11 @@
+﻿RULES:
+
+1. You are not allowed to use any kind of help, for example, course materials, Internet, code made at home
+2. At the end of the oral, compress your work in a .zip archive (not .rar, .7zip, .targz!!!) and upload it on natschool.
+3. If you are caught using help you will be disqualified and reported to the exam commission for plagiarism.
+
+ASSIGNMENT:
+1. Complete the parts of the code where you find the comments saying that you have to complete (CTRL + F and search for "COMPLETE").  DO NOT REMOVE THE COMMENT.
+2. To test your work unload the projects you are not working on (right click -> unload) to be able to compile only the parts you completed.
+3. In Program.cs you already have a graph that you can use to test Dijkstra or Floyd-Warshall.
+4. Choose to complete either Dijkstra or Floyd-Warshall, not both. It is wise to choose the one you used in the home assignments :).

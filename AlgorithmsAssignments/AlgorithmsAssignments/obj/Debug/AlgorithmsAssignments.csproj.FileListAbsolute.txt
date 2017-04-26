@@ -1,0 +1,26 @@
+C:\Users\Francesco\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6A exams\Solutions of assignments\AlgorithmsAssignments\AlgorithmsAssignments\bin\Debug\AlgorithmsAssignments.exe.config
+C:\Users\Francesco\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\INFDEV02-6A exams\Oral check\Second 2016-2017\AlgorithmsAssignments\AlgorithmsAssignments\bin\Debug\AlgorithmsAssignments.exe.config
+C:\Users\Timo\Desktop\AlgorithmsAssignments\AlgorithmsAssignments\bin\Debug\AlgorithmsAssignments.exe.config
+C:\Users\Timo\Desktop\AlgorithmsAssignments\AlgorithmsAssignments\bin\Debug\AlgorithmsAssignments.exe
+C:\Users\Timo\Desktop\AlgorithmsAssignments\AlgorithmsAssignments\bin\Debug\AlgorithmsAssignments.pdb
+C:\Users\Timo\Desktop\AlgorithmsAssignments\AlgorithmsAssignments\bin\Debug\Dictionaries.dll
+C:\Users\Timo\Desktop\AlgorithmsAssignments\AlgorithmsAssignments\bin\Debug\Graphs.dll
+C:\Users\Timo\Desktop\AlgorithmsAssignments\AlgorithmsAssignments\bin\Debug\Sorting.dll
+C:\Users\Timo\Desktop\AlgorithmsAssignments\AlgorithmsAssignments\bin\Debug\Dictionaries.pdb
+C:\Users\Timo\Desktop\AlgorithmsAssignments\AlgorithmsAssignments\bin\Debug\Graphs.pdb
+C:\Users\Timo\Desktop\AlgorithmsAssignments\AlgorithmsAssignments\bin\Debug\Sorting.pdb
+C:\Users\Timo\Desktop\AlgorithmsAssignments\AlgorithmsAssignments\bin\Debug\Sorting.dll.config
+C:\Users\Timo\Desktop\AlgorithmsAssignments\AlgorithmsAssignments\obj\Debug\AlgorithmsAssignments.csprojResolveAssemblyReference.cache
+C:\Users\Timo\Desktop\AlgorithmsAssignments\AlgorithmsAssignments\obj\Debug\AlgorithmsAssignments.exe
+C:\Users\Timo\Desktop\AlgorithmsAssignments\AlgorithmsAssignments\obj\Debug\AlgorithmsAssignments.pdb
+C:\Users\Timo\Documents\Gitkraken\SortingandBinary\AlgorithmsAssignments\AlgorithmsAssignments\bin\Debug\AlgorithmsAssignments.exe.config
+C:\Users\Timo\Documents\Gitkraken\SortingandBinary\AlgorithmsAssignments\AlgorithmsAssignments\bin\Debug\AlgorithmsAssignments.exe
+C:\Users\Timo\Documents\Gitkraken\SortingandBinary\AlgorithmsAssignments\AlgorithmsAssignments\bin\Debug\AlgorithmsAssignments.pdb
+C:\Users\Timo\Documents\Gitkraken\SortingandBinary\AlgorithmsAssignments\AlgorithmsAssignments\bin\Debug\Dictionaries.dll
+C:\Users\Timo\Documents\Gitkraken\SortingandBinary\AlgorithmsAssignments\AlgorithmsAssignments\bin\Debug\Sorting.dll
+C:\Users\Timo\Documents\Gitkraken\SortingandBinary\AlgorithmsAssignments\AlgorithmsAssignments\bin\Debug\Dictionaries.pdb
+C:\Users\Timo\Documents\Gitkraken\SortingandBinary\AlgorithmsAssignments\AlgorithmsAssignments\bin\Debug\Sorting.pdb
+C:\Users\Timo\Documents\Gitkraken\SortingandBinary\AlgorithmsAssignments\AlgorithmsAssignments\bin\Debug\Sorting.dll.config
+C:\Users\Timo\Documents\Gitkraken\SortingandBinary\AlgorithmsAssignments\AlgorithmsAssignments\obj\Debug\AlgorithmsAssignments.csprojResolveAssemblyReference.cache
+C:\Users\Timo\Documents\Gitkraken\SortingandBinary\AlgorithmsAssignments\AlgorithmsAssignments\obj\Debug\AlgorithmsAssignments.exe
+C:\Users\Timo\Documents\Gitkraken\SortingandBinary\AlgorithmsAssignments\AlgorithmsAssignments\obj\Debug\AlgorithmsAssignments.pdb
